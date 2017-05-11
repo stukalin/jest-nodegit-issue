@@ -16,6 +16,7 @@
     "nodegit": "^0.18.3"
   },
   "scripts": {
-    "test": "jest --watch"
+    "test": "jest",
+    "test:nc": "jest --no-cache"
   }
 }
