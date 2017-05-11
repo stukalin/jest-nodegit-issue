@@ -1,0 +1,21 @@
+{
+  "name": "jest-nodegit-issue",
+  "jest": {
+    "roots": [
+      "<rootDir>/__tests__/"
+    ]
+  },
+  "version": "1.0.0",
+  "description": "for jest team",
+  "main": "index.js",
+  "repository": "https://github.com/stukalin/jest-nodegit-issue.git",
+  "author": "Andrey Stukalin <apstukalin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^20.0.1",
+    "nodegit": "^0.18.3"
+  },
+  "scripts": {
+    "test": "jest --watch"
+  }
+}
