@@ -12,8 +12,8 @@
   "author": "Andrey Stukalin <apstukalin@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "jest": "^20.0.1",
-    "nodegit": "^0.18.3"
+    "jest": "^22.4.2",
+    "nodegit": "^0.21.0"
   },
   "scripts": {
     "test": "jest",
